@@ -1,0 +1,20 @@
+{
+  "name": "mini_img",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ./listener.js"
+  },
+  "key": "tldABFiUDGSSJirF2RjGRGBhodvv75Wo",
+  "entry": "/Users/chinakirasachi/Desktop/workspace/work/mini_img/entry",
+  "output": "/Users/chinakirasachi/Desktop/workspace/work/mini_img/output",
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^3.0.0",
+    "cross-env": "^6.0.3",
+    "tinify": "^1.6.0-beta.2"
+  }
+}
